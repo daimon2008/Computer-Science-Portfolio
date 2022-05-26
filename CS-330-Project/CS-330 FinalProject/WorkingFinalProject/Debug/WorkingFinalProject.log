@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\paul\source\repos\WorkingFinalProject\WorkingFinalProject\Source.cpp(333,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul\source\repos\WorkingFinalProject\WorkingFinalProject\Source.cpp(521,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul\source\repos\WorkingFinalProject\WorkingFinalProject\Source.cpp(522,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul\source\repos\WorkingFinalProject\WorkingFinalProject\Source.cpp(526,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul\source\repos\WorkingFinalProject\WorkingFinalProject\Source.cpp(527,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul\source\repos\WorkingFinalProject\WorkingFinalProject\Source.cpp(529,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul\source\repos\WorkingFinalProject\WorkingFinalProject\Source.cpp(530,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\paul\source\repos\WorkingFinalProject\WorkingFinalProject\Source.cpp(540,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  WorkingFinalProject.vcxproj -> C:\Users\paul\source\repos\WorkingFinalProject\Debug\WorkingFinalProject.exe
