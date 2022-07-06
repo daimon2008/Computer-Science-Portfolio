@@ -1,5 +1,5 @@
 # Computer-Science-Portfolio
-Thigns Created from my time in school
+Things Created from my time in school
 
 CS-330 Project is using microsfot vision studio with openGL to create a 3d scence using many differnt elements such as rotating light srouces and textures.
 
